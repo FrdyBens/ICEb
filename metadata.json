@@ -1,0 +1,6 @@
+{
+  "name": "Sevelr",
+  "description": "Windows environment control, isolation, application shortcuts, real-time filesystem monitoring, local snapshots, and system management dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
